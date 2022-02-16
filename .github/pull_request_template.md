@@ -1,11 +1,8 @@
-#######################################
-Project Name: task_2
-URL: https://github.com/chaliman/task_2
-#######################################
+# Project Name: task_2
+### URL: https://github.com/chaliman/task_2 </br></br>
 
-Template for verification before pushing this to main branch.
-
+<p>Template for verification before pushing this to main branch.</br>
 Please mark if above tasks where completed.
-[x] Compiled code
-[x] Code ran with no errors on local branch
-[x] Code is working as expected
+<li>Compiled code</li>
+<li>Code ran with no errors on local branch</li>
+<li>Code is working as expecte</li>
